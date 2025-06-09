@@ -45,9 +45,9 @@ Parte inicial
 ** No Visual Studio
 
 1.  **Clonar o Repositório:**
-   [ ```bash
+  [ [ ```bash
     [git clone (https://github.com/vitorinomenezes/AppWVBTesteBackEnd.git)](https://github.com/vitorinomenezes/ApiBlog.git)
-    ```
+    ```](https://github.com/vitorinomenezes/AppRotas.git)
 
 2.  **Restaurar as Dependências:**
     ```bash
@@ -59,32 +59,14 @@ Parte inicial
     dotnet run
     ```
 
-A API estará acessível em um endereço como `[[http://localhost:5xxx/swagger`](https://localhost:44323/swagger/index.html]).
+A API estará acessível em um endereço como [`[[http://localhost:5xxx/swagger`](https://localhost:44323/swagger/index.html]).
+](https://localhost:44300/index.html)
 
-## Credenciais
-* `id`: Identificador único do usuário (inteiro).
-* `name`: Nome completo do usuário (string).
-* `email`: Endereço de e-mail do usuário (string).
-* `password`: Senha do usuário (string).
-```json
-{
- {
-  "id": 0,
-  "username": "MASTER",
-  "passwordHash": "1234",
-  "email": "master@gmail.com",
-  "token": "string"
-}
-}
-```
-## Obs.: O servidor WS está no arquivo WEBSOCKETCONSOLE.zip
 
 ## Melhorias e próximos passos 
 * Implementar logs e rastreio de falhas
-* Implementar a camada `Repository` com um banco de dados real.
-* Adicionar testes unitários e de integração.
+* Implementar a camada `Repository`no local correto.
+* melhorar e corrigir testes unitários e de integração.
 * Implementar tratamento de erros mais robusto.
-* Melhorar a lógica de conexão Telnet.
 * Adicionar autenticação e autorização (já parcialmente configurado com JWT OUATH 2).
-* Implementar testes unitarios e de integração com XUNIT ou outra ferramenta
 
