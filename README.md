@@ -45,7 +45,7 @@ Parte inicial
 ** No Visual Studio
 
 1.  **Clonar o Repositório:**
-[[ ![image](https://github.com/user-attachments/assets/56d35e37-2518-4791-a41f-00385ed77271)](https://github.com/vitorinomenezes/AppRotas.git)](https://github.com/vitorinomenezes/AppRotas.git)
+https://github.com/vitorinomenezes/AppRotas.git
 
 3.  **Restaurar as Dependências:**
     ```bash
