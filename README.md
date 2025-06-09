@@ -45,11 +45,9 @@ Parte inicial
 ** No Visual Studio
 
 1.  **Clonar o Repositório:**
-  [ [ ```bash
-    [git clone (https://github.com/vitorinomenezes/AppWVBTesteBackEnd.git)](https://github.com/vitorinomenezes/ApiBlog.git)
-    ```](https://github.com/vitorinomenezes/AppRotas.git)
+ ![image](https://github.com/user-attachments/assets/56d35e37-2518-4791-a41f-00385ed77271)
 
-2.  **Restaurar as Dependências:**
+3.  **Restaurar as Dependências:**
     ```bash
     dotnet restore
     ```
