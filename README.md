@@ -1,4 +1,4 @@
-# API .NET 8, SWAGGER MSSQLLOCAL para gerenciamento rotas de Viagem
+# API .NET 8, SWAGGER MSSQLLOCAL para gerenciamento Rotas de Viagem
 
 ### A APIROTAS é uma aplicação criada nos padrões de desenho do DDD, e tem como objetivo um simples cadastros de ROTAS, com um crud em mssqllocaldb/EF.
 
